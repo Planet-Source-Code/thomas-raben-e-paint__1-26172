@@ -1,0 +1,13 @@
+Creating your own filters:
+
+It's quite simple...
+
+All you have to do is take your gfx application and make it load a given filename on load (use command$)
+Then modify the image as you want to, and save the file to the original file name (the one you got from command$)
+
+Then compile and place the .exe in here (the epaint\filters folder).
+
+Have fun!
+
+Thomas Raben
+tr@vupti.com
